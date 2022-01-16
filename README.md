@@ -1,2 +1,3 @@
 # telegram-random
-Random generator works with Random.org api
+Random generator bot.
+Random from Random.org API
